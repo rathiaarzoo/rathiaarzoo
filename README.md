@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aarzoo Rathi
-- 🌱 I’m currently learning Python
 - 📫 How to reach me rathiaarzoo99@gmail.com
 
 <!---
